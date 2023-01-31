@@ -1,0 +1,16 @@
+1.Total BOPO , NPF,FDR,ROE
+2.Rata BOPO , NPF,FDR,ROE
+3.Rata & RATA BOPO , NPF,FDR,ROE / BANK 
+
+BANK MANA YANG PALING BANYAK KASIH KREDIT        : MAX(NPF)  (2017-2022)
+BANK MANA PALING RUGI                            : MAX(BOPO) (2017-2022)
+BANK UNTUNG                                      : MIN(BOPO) (2017-2022)
+KEMUNGKINAN BANK YANG PALING UNTUK               : MAX(ROE)  (2017-2022)
+
+
+
+
+
+
+
+
