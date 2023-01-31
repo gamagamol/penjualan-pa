@@ -7,8 +7,7 @@ BANK MANA PALING RUGI                            : MAX(BOPO) (2017-2022)
 BANK UNTUNG                                      : MIN(BOPO) (2017-2022)
 KEMUNGKINAN BANK YANG PALING UNTUK               : MAX(ROE)  (2017-2022)
 
-
-
+ini contoh 
 
 
 
